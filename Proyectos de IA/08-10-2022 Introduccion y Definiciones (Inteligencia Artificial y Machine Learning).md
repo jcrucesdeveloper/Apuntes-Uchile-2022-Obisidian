@@ -58,5 +58,13 @@ En general, **un proyecto de IA apunta a "resolver" problemas "dificiles"**
 **Machine Learning consiste en modelar un comportamiento sin tener que programarlo explicitamente**
 - Se necesitan ejemplos o muestra de resultado esperado
 	- El evento a modelar debe haber sucedido antes
-	- 
 
+# Algoritmos de Machine learning
+## Metodos no supervisados
+- No hay informacion extra
+- Tarea comun: Encontrar grupos de descriptores similares e interpretar esos grupos
+
+## Metodos supervisados
+- Se tienen datos etiquetados
+- Tareas comunes: Asignar etiquetas (clasificacion, caso discreto), geerar uno o mas valores (regresion, caso continuo)
+**Usualmente los proyectos de Machine learning son mas supervisados**
